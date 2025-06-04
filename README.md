@@ -7,5 +7,5 @@ Este repositorio contiene el trabajo integrador correspondiente a la materia Arq
 
     El trabajo integrador, que contiene los detalles sobre la implementación y la explicación del enfoque adoptado.
 
-Video de Youtube: https://www.youtube.com/watch?v=fBhnc9gK4Xw
+Link de Video en Youtube: https://www.youtube.com/watch?v=fBhnc9gK4Xw
 Link de repositorio: https://github.com/luisvega2023/TP-Integrador-AySO.git
